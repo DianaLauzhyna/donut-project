@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "donut-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://MaksymenkoMaksym.github.io/junior-crew",
+  "homepage": "https://dianalauzhyna.github.io/donut-project/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /junior-crew/"
+    "build": "parcel build src/*.html --public-url /donut-project/"
   },
   "repository": {
     "type": "git",
