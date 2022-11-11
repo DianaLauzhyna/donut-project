@@ -2,7 +2,7 @@
   "name": "donut-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dianalauzhyna.github.io/donut-project/",
+  "homepage": "https://dianalauzhyna.github.io/donut-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /donut-project/"
